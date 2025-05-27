@@ -56,18 +56,10 @@ app/
 └── proguard-rules.pro    # ProGuard rules
 ```
 
-## 🔑 Configuration
-
-The application uses the debug keystore for development builds. For production releases, please configure your own signing keys in the `signingConfigs` block of the app's `build.gradle.kts`.
-
 ## 📝 Version History
 
 - Current Version: 1.5 (Build 2)
 - Minimum Android Version: Android 12 (API 31)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
