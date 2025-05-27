@@ -21,21 +21,6 @@ A modern Android application built with Jetpack Compose and Material 3, designed
 - **Location Services**: Google Play Services Location
 - **Navigation**: Jetpack Navigation Compose
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Android Studio Arctic Fox or later
-- JDK 11 or later
-- Android SDK with minimum API level 31 (Android 12)
-
-### Building the Project
-
-1. Clone the repository
-2. Open the project in Android Studio
-3. Sync the project with Gradle files
-4. Run the app on an emulator or physical device
-
 ## 📱 Supported Android Versions
 
 - Minimum SDK: 31 (Android 12)
