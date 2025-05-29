@@ -52,4 +52,4 @@ This project is licensed under the terms of the MIT license.
 
 ---
 
-Made with ❤️ using Jetpack Compose
+Made with ❤️ by Anjishnu Nandi
