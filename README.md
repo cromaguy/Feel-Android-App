@@ -1,15 +1,15 @@
 # Feel 🌈
 
-A modern Android application built with Jetpack Compose and Material 3, designed to help users track and manage their emotions.
+A modern Android application built with Jetpack Compose and Material 3, designed to help users to check weather forcast.
 
 ## 🌟 Features
 
 - **Modern UI**: Built entirely with Jetpack Compose and Material 3 design system
 - **Real-time Weather Integration**: Location-based weather updates
-- **Emotion Tracking**: Track and monitor your emotional well-being
+- **Weather Tracking**: Track and monitor weather upto 7 days
 - **Beautiful Animations**: Smooth transitions and engaging user interactions
-- **Offline Support**: Access your data even without internet connection
-
+- **OTA Support**: Update App through app itself
+  
 ## 🛠️ Tech Stack
 
 - **UI Framework**: Jetpack Compose with Material 3
